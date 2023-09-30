@@ -1,0 +1,15 @@
+.menu-boarder{
+    padding: 10px;
+    border-style: groove;
+    border-width: 10px;
+    border-color: black;
+}
+
+.image-spec{
+    height: 40px;
+    width: 75px;
+    float:left;
+}
+.center{
+   text-align: center; 
+}
